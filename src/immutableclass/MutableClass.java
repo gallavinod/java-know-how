@@ -1,3 +1,6 @@
+package immutableclass;
+
+
 public class MutableClass {
 
 	public int mutablePrimitive;

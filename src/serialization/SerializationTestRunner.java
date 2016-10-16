@@ -1,3 +1,5 @@
+package serialization;
+
 import java.lang.Object;
 public class SerializationTestRunner {
 	
