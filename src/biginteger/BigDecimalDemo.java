@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Runner {
+public class BigDecimalDemo {
 	
 	/*
 	 * https://www.hackerrank.com/challenges/java-bigdecimal
